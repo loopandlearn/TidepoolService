@@ -96,11 +96,7 @@ extension DoseEntry: IdentifiableDatum {
     }
 
     private func dataForBolus(for userId: String, hostIdentifier: String, hostVersion: String) -> [TDatum] {
-        if manuallyEntered {
-            return dataForBolusManuallyEntered(for: userId, hostIdentifier: hostIdentifier, hostVersion: hostVersion)
-
-            
-        } else if automatic != true {
+    if automatic != true {
             return dataForBolusManual(for: userId, hostIdentifier: hostIdentifier, hostVersion: hostVersion)
         }  else {
             return dataForBolusAutomatic(for: userId, hostIdentifier: hostIdentifier, hostVersion: hostVersion)
