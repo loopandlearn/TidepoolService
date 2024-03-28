@@ -96,11 +96,7 @@ extension DoseEntry: IdentifiableDatum {
     }
 
     private func dataForBolus(for userId: String, hostIdentifier: String, hostVersion: String) -> [TDatum] {
-        if manuallyEntered {
-            return dataForBolusManuallyEntered(for: userId, hostIdentifier: hostIdentifier, hostVersion: hostVersion)
-
-            
-        } else if automatic != true {
+    if automatic != true {
             return dataForBolusManual(for: userId, hostIdentifier: hostIdentifier, hostVersion: hostVersion)
         }  else {
             return dataForBolusAutomatic(for: userId, hostIdentifier: hostIdentifier, hostVersion: hostVersion)
@@ -294,9 +290,7 @@ extension DoseEntry {
         case .basal:
             return [datumSelector(for: TScheduledBasalDatum.self)]
         case .bolus:
-            if manuallyEntered {
-                return [datumSelector(for: TInsulinDatum.self)]
-            } else if automatic != true {
+            if automatic != true {
                 return [datumSelector(for: TNormalBolusDatum.self)]
             } else {
                 return [datumSelector(for: TAutomatedBolusDatum.self)]
