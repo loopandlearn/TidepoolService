@@ -96,7 +96,11 @@ extension DoseEntry: IdentifiableDatum {
     }
 
     private func dataForBolus(for userId: String, hostIdentifier: String, hostVersion: String) -> [TDatum] {
-    if automatic != true {
+        // TODO: revert to using .insulin datum type once fully supported in Tidepool frontend
+//        if manuallyEntered {
+//            return dataForBolusManuallyEntered(for: userId, hostIdentifier: hostIdentifier, hostVersion: hostVersion)
+//        } else 
+        if automatic != true {
             return dataForBolusManual(for: userId, hostIdentifier: hostIdentifier, hostVersion: hostVersion)
         }  else {
             return dataForBolusAutomatic(for: userId, hostIdentifier: hostIdentifier, hostVersion: hostVersion)
@@ -130,6 +134,11 @@ extension DoseEntry: IdentifiableDatum {
                                       normal: !isMutable ? deliveredUnits : programmedUnits,
                                       expectedNormal: !isMutable && programmedUnits != deliveredUnits ? programmedUnits : nil,
                                       insulinFormulation: datumInsulinFormulation)
+
+        if manuallyEntered {
+            datum.notes = ["manual entry"]
+        }
+
         let origin = datumOrigin(for: resolvedIdentifier(for: TNormalBolusDatum.self), hostIdentifier: hostIdentifier, hostVersion: hostVersion)
         datum = datum.adornWith(id: datumId(for: userId, type: TNormalBolusDatum.self),
                                 annotations: datumAnnotations,
