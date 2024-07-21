@@ -299,7 +299,9 @@ extension DoseEntry {
         case .basal:
             return [datumSelector(for: TScheduledBasalDatum.self)]
         case .bolus:
-            if automatic != true {
+            if manuallyEntered {
+                return [datumSelector(for: TInsulinDatum.self)]
+            } else if automatic != true {
                 return [datumSelector(for: TNormalBolusDatum.self)]
             } else {
                 return [datumSelector(for: TAutomatedBolusDatum.self)]
