@@ -8,7 +8,7 @@
 "Delete Service" = "Удалить сервис";
 
 /* Label title for displaying selected Tidepool server environment.
-   Tidepool login environment action sheet title */
+Tidepool login environment action sheet title */
 "Environment" = "Environment";
 
 /* LoginViewModel description text when logged in */
