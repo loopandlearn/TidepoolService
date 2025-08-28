@@ -2,7 +2,7 @@
 "Configuration Error" = "Errore di configurazione";
 
 /* Error string for TidepoolServiceError.missingDataSetId */
-"Missing DataSet Id" = "DataSet mancante";
+"Missing DataSet Id" = "ID del set di dati mancante";
 
 /* Alert acknowledgment OK button */
 "OK" = "OK";
@@ -11,8 +11,8 @@
 "Tidepool" = "Tidepool";
 
 /* The title for an alert generated when TidepoolService is no longer authorized. */
-"Tidepool Service Authorization" = "Servizio d'autorizzazione Tidepool";
+"Tidepool Service Authorization" = "Autorizzazione al servizio Tidepool";
 
 /* The body text for an alert generated when TidepoolService is no longer authorized. */
-"Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate." = "Il servizio Tidepool non è più autorizzato. Per favore vai nelle impostazioni di Tidepool e riautenticati.";
+"Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate." = "Il servizio Tidepool non è più autorizzato. Accedi alle impostazioni del servizio Tidepool e autenticati nuovamente.";
 
