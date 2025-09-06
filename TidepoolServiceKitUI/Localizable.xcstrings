@@ -117,6 +117,18 @@
             "value" : "Schließen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sulje"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,10 +159,28 @@
             "value" : "Zamknij"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Închide"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Закрыть"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stäng"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kapat"
           }
         }
       }

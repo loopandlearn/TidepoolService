@@ -146,6 +146,18 @@
     "OK" : {
       "comment" : "Alert acknowledgment OK button",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موافق"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -158,13 +170,37 @@
             "value" : "OK"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "תקין"
+          }
+        },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -188,7 +224,43 @@
             "value" : "OK"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tamam"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
