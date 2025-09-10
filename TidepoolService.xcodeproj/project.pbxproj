@@ -46,8 +46,6 @@
 		A9DAAD3422E7CA1A00E76C9F /* LocalizedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DAAD3222E7CA1A00E76C9F /* LocalizedString.swift */; };
 		A9DAAD3622E7CAC100E76C9F /* TidepoolService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DAAD3522E7CAC100E76C9F /* TidepoolService.swift */; };
 		A9DAAD3922E7DEE000E76C9F /* TidepoolService+UI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DAAD3822E7DEE000E76C9F /* TidepoolService+UI.swift */; };
-		A9DAAD3F22E7DF9B00E76C9F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A9DAAD4122E7DF9B00E76C9F /* Localizable.strings */; };
-		A9DAAD4D22E7DFD400E76C9F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A9DAAD4F22E7DFD400E76C9F /* Localizable.strings */; };
 		A9DAAD5B22E7E6BE00E76C9F /* LoopKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9DAAD5A22E7E6BE00E76C9F /* LoopKit.framework */; };
 		A9DAAD5D22E7E73000E76C9F /* LoopKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9DAAD5C22E7E73000E76C9F /* LoopKit.framework */; };
 		A9DAAD6122E7E7B200E76C9F /* LoopKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9DAAD6022E7E7B200E76C9F /* LoopKit.framework */; };
@@ -63,6 +61,8 @@
 		A9E8C611272C76A500016E2E /* TimeInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E8C610272C76A500016E2E /* TimeInterval.swift */; };
 		A9F9F317271A046E00D19374 /* StoredCarbEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9F9F316271A046E00D19374 /* StoredCarbEntry.swift */; };
 		A9F9F319271A05B100D19374 /* IdentifiableHKDatum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9F9F318271A05B100D19374 /* IdentifiableHKDatum.swift */; };
+		B66D1FAC2E6A8D8300471149 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = B66D1FAB2E6A8D8300471149 /* Localizable.xcstrings */; };
+		B66D1FAE2E6A8D8300471149 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = B66D1FAD2E6A8D8300471149 /* Localizable.xcstrings */; };
 		C110888F2A39149100BA4898 /* BuildDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = C110888E2A39149100BA4898 /* BuildDetails.swift */; };
 		C124239D2A58771A00EAC89E /* TidepoolKit in Frameworks */ = {isa = PBXBuildFile; productRef = C124239C2A58771A00EAC89E /* TidepoolKit */; };
 		C12E4BBA288F2215009C98A2 /* TidepoolServiceKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9DAACFF22E7987800E76C9F /* TidepoolServiceKit.framework */; platformFilter = ios; };
@@ -165,8 +165,6 @@
 		A97A60FA243818C900AD69A5 /* TDatum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TDatum.swift; sourceTree = "<group>"; };
 		A98737CA2788DAE400A6A23D /* PersistedPumpEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistedPumpEvent.swift; sourceTree = "<group>"; };
 		A98737CC2788E61400A6A23D /* InsulinType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsulinType.swift; sourceTree = "<group>"; };
-		A99222FA235A879600C11C04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A99222FB235A87B100C11C04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A9A53E2E271508D80050C0B1 /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 		A9BF371C2418195C008D7F34 /* TidepoolKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = TidepoolKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9BF371E24181977008D7F34 /* TidepoolKitUI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = TidepoolKitUI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -190,24 +188,6 @@
 		A9DAAD3222E7CA1A00E76C9F /* LocalizedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizedString.swift; sourceTree = "<group>"; };
 		A9DAAD3522E7CAC100E76C9F /* TidepoolService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TidepoolService.swift; sourceTree = "<group>"; };
 		A9DAAD3822E7DEE000E76C9F /* TidepoolService+UI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TidepoolService+UI.swift"; sourceTree = "<group>"; };
-		A9DAAD4222E7DFA500E76C9F /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		A9DAAD4322E7DFA600E76C9F /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD4422E7DFA700E76C9F /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD4522E7DFA800E76C9F /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD4622E7DFA800E76C9F /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD4722E7DFA900E76C9F /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD4822E7DFAA00E76C9F /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD4922E7DFAA00E76C9F /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD4A22E7DFAB00E76C9F /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD5022E7DFDC00E76C9F /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		A9DAAD5122E7DFDD00E76C9F /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD5222E7DFDE00E76C9F /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD5322E7DFDF00E76C9F /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD5422E7DFDF00E76C9F /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD5522E7DFE000E76C9F /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD5622E7DFE100E76C9F /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD5722E7DFE100E76C9F /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
-		A9DAAD5822E7DFE200E76C9F /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A9DAAD5A22E7E6BE00E76C9F /* LoopKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = LoopKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9DAAD5C22E7E73000E76C9F /* LoopKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = LoopKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9DAAD6022E7E7B200E76C9F /* LoopKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = LoopKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -222,27 +202,12 @@
 		A9E8C610272C76A500016E2E /* TimeInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeInterval.swift; sourceTree = "<group>"; };
 		A9F9F316271A046E00D19374 /* StoredCarbEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoredCarbEntry.swift; sourceTree = "<group>"; };
 		A9F9F318271A05B100D19374 /* IdentifiableHKDatum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentifiableHKDatum.swift; sourceTree = "<group>"; };
+		B66D1FAB2E6A8D8300471149 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		B66D1FAD2E6A8D8300471149 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		C110888E2A39149100BA4898 /* BuildDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildDetails.swift; sourceTree = "<group>"; };
-		C12522E1298309B5006EA1CD /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1317D4129830A0800625B94 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C18B726B299581C600F138D3 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C192C60B29C78711001EFEA6 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C199E4D929C64072003D32F7 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C199E4DA29C64072003D32F7 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1A3529629C640A5002322A5 /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1A3529729C640A5002322A5 /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1B0CFE129C786BF0045B04D /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1B267AA2995824000BCB7C1 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		C1C9414529F0CB21008D3E05 /* UIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImage.swift; sourceTree = "<group>"; };
 		C1D0B62829848A460098D215 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		C1D0B62B29848BEB0098D215 /* Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image.swift; sourceTree = "<group>"; };
-		C1DEE89E298309EA0008194D /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1DEE89F298309EA0008194D /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1E5A6E529C7870100703C90 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1E693D729C786E200410918 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		C1E8ADD92995822300AB9EEB /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1E8ADDA2995822300AB9EEB /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1F4FD6029C7869800D7ACBC /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		E93BA06124A29C9C00C5D7E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -401,7 +366,7 @@
 				A9F9F318271A05B100D19374 /* IdentifiableHKDatum.swift */,
 				A9DAAD3522E7CAC100E76C9F /* TidepoolService.swift */,
 				A913B37B24200C86000805C4 /* Extensions */,
-				A9DAAD4122E7DF9B00E76C9F /* Localizable.strings */,
+				B66D1FAD2E6A8D8300471149 /* Localizable.xcstrings */,
 			);
 			path = TidepoolServiceKit;
 			sourceTree = "<group>";
@@ -429,7 +394,7 @@
 				A9DAAD3822E7DEE000E76C9F /* TidepoolService+UI.swift */,
 				C1D0B62829848A460098D215 /* SettingsView.swift */,
 				E93BA06124A29C9C00C5D7E6 /* Assets.xcassets */,
-				A9DAAD4F22E7DFD400E76C9F /* Localizable.strings */,
+				B66D1FAB2E6A8D8300471149 /* Localizable.xcstrings */,
 			);
 			path = TidepoolServiceKitUI;
 			sourceTree = "<group>";
@@ -699,7 +664,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A9DAAD3F22E7DF9B00E76C9F /* Localizable.strings in Resources */,
+				B66D1FAE2E6A8D8300471149 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -715,7 +680,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E93BA06224A29C9C00C5D7E6 /* Assets.xcassets in Resources */,
-				A9DAAD4D22E7DFD400E76C9F /* Localizable.strings in Resources */,
+				B66D1FAC2E6A8D8300471149 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -850,60 +815,6 @@
 			targetProxy = C12E4BC0288F2215009C98A2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		A9DAAD4122E7DF9B00E76C9F /* Localizable.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				A9DAAD4222E7DFA500E76C9F /* zh-Hans */,
-				A9DAAD4322E7DFA600E76C9F /* nl */,
-				A9DAAD4422E7DFA700E76C9F /* fr */,
-				A9DAAD4522E7DFA800E76C9F /* de */,
-				A9DAAD4622E7DFA800E76C9F /* it */,
-				A9DAAD4722E7DFA900E76C9F /* nb */,
-				A9DAAD4822E7DFAA00E76C9F /* pl */,
-				A9DAAD4922E7DFAA00E76C9F /* ru */,
-				A9DAAD4A22E7DFAB00E76C9F /* es */,
-				A99222FA235A879600C11C04 /* Base */,
-				C1DEE89E298309EA0008194D /* sk */,
-				C18B726B299581C600F138D3 /* da */,
-				C1E8ADD92995822300AB9EEB /* ro */,
-				C1B267AA2995824000BCB7C1 /* tr */,
-				C199E4D929C64072003D32F7 /* cs */,
-				C1A3529629C640A5002322A5 /* he */,
-			);
-			name = Localizable.strings;
-			sourceTree = "<group>";
-		};
-		A9DAAD4F22E7DFD400E76C9F /* Localizable.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				A9DAAD5022E7DFDC00E76C9F /* zh-Hans */,
-				A9DAAD5122E7DFDD00E76C9F /* nl */,
-				A9DAAD5222E7DFDE00E76C9F /* fr */,
-				A9DAAD5322E7DFDF00E76C9F /* de */,
-				A9DAAD5422E7DFDF00E76C9F /* it */,
-				A9DAAD5522E7DFE000E76C9F /* nb */,
-				A9DAAD5622E7DFE100E76C9F /* pl */,
-				A9DAAD5722E7DFE100E76C9F /* ru */,
-				A9DAAD5822E7DFE200E76C9F /* es */,
-				A99222FB235A87B100C11C04 /* Base */,
-				C12522E1298309B5006EA1CD /* da */,
-				C1DEE89F298309EA0008194D /* sk */,
-				C1317D4129830A0800625B94 /* tr */,
-				C1E8ADDA2995822300AB9EEB /* ro */,
-				C199E4DA29C64072003D32F7 /* cs */,
-				C1A3529729C640A5002322A5 /* he */,
-				C1F4FD6029C7869800D7ACBC /* fi */,
-				C1B0CFE129C786BF0045B04D /* ja */,
-				C1E693D729C786E200410918 /* pt-BR */,
-				C1E5A6E529C7870100703C90 /* sv */,
-				C192C60B29C78711001EFEA6 /* vi */,
-			);
-			name = Localizable.strings;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		A94AE4EA235A89B5005CA320 /* Debug */ = {
@@ -1052,6 +963,7 @@
 				GCC_WARN_UNUSED_PARAMETER = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				LOCALIZED_STRING_MACRO_NAMES = (
 					NSLocalizedString,
 					CFLocalizedString,
@@ -1062,6 +974,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1156,6 +1069,7 @@
 				GCC_WARN_UNUSED_PARAMETER = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				LOCALIZED_STRING_MACRO_NAMES = (
 					NSLocalizedString,
 					CFLocalizedString,
@@ -1165,6 +1079,7 @@
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				VALIDATE_PRODUCT = YES;
@@ -1243,6 +1158,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.tidepool.TidepoolServiceKitTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -1260,6 +1176,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.tidepool.TidepoolServiceKitTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -1333,6 +1250,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.tidepool.TidepoolServiceKitUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -1350,6 +1268,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.tidepool.TidepoolServiceKitUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
