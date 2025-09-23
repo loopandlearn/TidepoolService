@@ -99,6 +99,12 @@
             "state" : "translated",
             "value" : "Bu servisi silmek istediğinizden emin misiniz?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您确定要删除此服务吗？"
+          }
         }
       }
     },
@@ -413,6 +419,12 @@
             "state" : "translated",
             "value" : "Вы вошли как"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登录身份"
+          }
         }
       }
     },
@@ -513,6 +525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oturum açma"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登录"
           }
         }
       }
@@ -619,6 +637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы не авторизованы."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您尚未登录。"
           }
         }
       }
