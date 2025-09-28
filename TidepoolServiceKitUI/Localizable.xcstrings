@@ -4,10 +4,10 @@
     "Are you sure you want to delete this service?" : {
       "comment" : "Confirmation message for deleting a service",
       "localizations" : {
-        "cs" : {
+        "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opravdu chcete tuto službu smazat?"
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
           }
         },
         "da" : {
@@ -46,13 +46,19 @@
             "value" : "בטוח שברצונך למחוק את שירות זה?"
           }
         },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sei sicuro di voler eliminare questo servizio?"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er du sikker på at du vil slette denne tjenesten?"
@@ -70,10 +76,16 @@
             "value" : "Czy na pewno chcesz usunąć tę usługę?"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ești sigur că vrei să ștergi acest serviciu?"
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
           }
         },
         "ru" : {
@@ -100,6 +112,24 @@
             "value" : "Bu servisi silmek istediğinizden emin misiniz?"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
+          }
+        },
+        "yy-YY" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -111,6 +141,12 @@
     "Close" : {
       "comment" : "Close navigation button title of an onboarding section page view",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إغلاق"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -141,13 +177,25 @@
             "value" : "Fermer"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bezár"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chiudi"
+            "value" : "Fine"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lukk"
@@ -165,16 +213,28 @@
             "value" : "Zamknij"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Închide"
+            "value" : "Fechar"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fechar"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Закрыть"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zatvoriť"
           }
         },
         "sv" : {
@@ -188,16 +248,40 @@
             "state" : "translated",
             "value" : "Kapat"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Закрити"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đóng"
+          }
+        },
+        "yy-YY" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Close"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭"
+          }
         }
       }
     },
     "Delete Service" : {
       "comment" : "Button title to delete a service\nDelete Tidepool service button title",
       "localizations" : {
-        "cs" : {
+        "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Smazat službu"
+            "state" : "new",
+            "value" : "Delete Service"
           }
         },
         "da" : {
@@ -236,19 +320,19 @@
             "value" : "מחק שירות"
           }
         },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Service"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elimina Servizio"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Delete Service"
-          }
-        },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Slett tjeneste"
@@ -266,16 +350,16 @@
             "value" : "Usuń usługę"
           }
         },
-        "pt-BR" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Delete Service"
           }
         },
-        "ro" : {
+        "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Șterge serviciul"
+            "state" : "new",
+            "value" : "Delete Service"
           }
         },
         "ru" : {
@@ -302,15 +386,27 @@
             "value" : "Servisi Sil"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Service"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Delete Service"
+          }
+        },
+        "yy-YY" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Delete Service"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Delete Service"
           }
         }
@@ -319,6 +415,12 @@
     "Environment" : {
       "comment" : "Label title for displaying selected Tidepool server environment.\nTidepool login environment action sheet title",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -331,10 +433,34 @@
             "value" : "Umgebung"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Environnement"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
           }
         },
         "it" : {
@@ -343,7 +469,7 @@
             "value" : "Ambiente"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Miljø"
@@ -361,9 +487,63 @@
             "value" : "Środowisko"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
+        "yy-YY" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Environment"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Environment"
           }
         }
@@ -372,6 +552,12 @@
     "Logged in as" : {
       "comment" : "LoginViewModel description text when logged in",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -384,10 +570,34 @@
             "value" : "Angemeldet als"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Connecté en tant que"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
           }
         },
         "it" : {
@@ -396,7 +606,7 @@
             "value" : "Autenticato come"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Innlogget som"
@@ -414,10 +624,58 @@
             "value" : "Zalogowany jako"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы вошли как"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
+          }
+        },
+        "yy-YY" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logged in as"
           }
         },
         "zh-Hans" : {
@@ -431,15 +689,15 @@
     "Login" : {
       "comment" : "Tidepool login button title",
       "localizations" : {
-        "cs" : {
+        "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Přihlásit se"
+            "state" : "new",
+            "value" : "Login"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Login"
           }
         },
@@ -463,7 +721,7 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Login"
           }
         },
@@ -473,13 +731,19 @@
             "value" : "כניסה"
           }
         },
-        "it" : {
+        "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Login"
           }
         },
-        "nb" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Login"
+          }
+        },
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Logg Inn"
@@ -493,14 +757,20 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Login"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autentificare"
+            "state" : "new",
+            "value" : "Login"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Login"
           }
         },
         "ru" : {
@@ -527,6 +797,24 @@
             "value" : "Oturum açma"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Login"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Login"
+          }
+        },
+        "yy-YY" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Login"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -538,6 +826,12 @@
     "Revoke token" : {
       "comment" : "Button title to revoke oauth tokens",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -550,10 +844,34 @@
             "value" : "Token zurückziehen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Révoquer le jeton"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
           }
         },
         "it" : {
@@ -562,7 +880,7 @@
             "value" : "Revoca token"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tilbakekall token"
@@ -580,10 +898,64 @@
             "value" : "Unieważnij token"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Отозвать токен"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
+        "yy-YY" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Revoke token"
           }
         }
       }
@@ -591,6 +963,12 @@
     "You are not logged in." : {
       "comment" : "LoginViewModel description text when not logged in",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -603,10 +981,34 @@
             "value" : "Du bist nicht angemeldet."
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vous n'êtes pas connecté."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
           }
         },
         "it" : {
@@ -615,7 +1017,7 @@
             "value" : "Non sei autenticato."
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du er ikke innlogget."
@@ -633,10 +1035,58 @@
             "value" : "Nie jesteś zalogowany."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вы не авторизованы."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
+          }
+        },
+        "yy-YY" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You are not logged in."
           }
         },
         "zh-Hans" : {
