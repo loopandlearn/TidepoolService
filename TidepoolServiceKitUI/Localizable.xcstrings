@@ -114,8 +114,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to delete this service?"
+            "state" : "translated",
+            "value" : "Ви впевнені, що хочете видалити цю послугу?"
           }
         },
         "vi" : {
@@ -388,8 +388,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete Service"
+            "state" : "translated",
+            "value" : "Видалити сервіс"
           }
         },
         "vi" : {
@@ -525,8 +525,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Environment"
+            "state" : "translated",
+            "value" : "Середовище"
           }
         },
         "vi" : {
@@ -662,8 +662,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Logged in as"
+            "state" : "translated",
+            "value" : "Увійшов як"
           }
         },
         "vi" : {
@@ -799,8 +799,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Login"
+            "state" : "translated",
+            "value" : "Увійти"
           }
         },
         "vi" : {
@@ -936,8 +936,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Revoke token"
+            "state" : "translated",
+            "value" : "Відкликати токен"
           }
         },
         "vi" : {
@@ -1073,8 +1073,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You are not logged in."
+            "state" : "translated",
+            "value" : "Ви не ввійшли в систему."
           }
         },
         "vi" : {

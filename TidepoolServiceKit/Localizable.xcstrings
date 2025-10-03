@@ -114,8 +114,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Configuration Error"
+            "state" : "translated",
+            "value" : "Помилка конфігурації"
           }
         },
         "vi" : {
@@ -251,8 +251,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Missing DataSet Id"
+            "state" : "translated",
+            "value" : "Відсутній ідентифікатор набору даних"
           }
         },
         "vi" : {
@@ -525,7 +525,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -662,8 +662,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tidepool Service Authorization"
+            "state" : "translated",
+            "value" : "Авторизація послуг Tidepool"
           }
         },
         "vi" : {
@@ -799,8 +799,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
+            "state" : "translated",
+            "value" : "Сервіс Tidepool більше не авторизований. Будь ласка, перейдіть до налаштувань сервісу Tidepool та повторно автентифікуйтеся."
           }
         },
         "vi" : {
