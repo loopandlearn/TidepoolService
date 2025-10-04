@@ -10,6 +10,12 @@
             "value" : "Configuration Error"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chyba konfigurace"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -58,6 +64,12 @@
             "value" : "Errore di configurazione"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfigurasjonsfeil"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -86,6 +98,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Configuration Error"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eroare de configurare"
           }
         },
         "ru" : {
@@ -195,6 +213,12 @@
             "value" : "ID del set di dati mancante"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mangler DataSet-ID"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -281,7 +305,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "حسناً"
+            "value" : "موافق"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "da" : {
@@ -304,7 +334,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -316,8 +346,8 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "OK"
+            "state" : "translated",
+            "value" : "תקין"
           }
         },
         "hu" : {
@@ -332,6 +362,18 @@
             "value" : "OK"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ok"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -341,12 +383,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "OK"
+            "value" : "Ok"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -358,14 +400,20 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "OK"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ОК"
+            "value" : "OK"
           }
         },
         "sk" : {
@@ -407,7 +455,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ok"
+            "value" : "好的"
           }
         }
       }
@@ -421,21 +469,27 @@
             "value" : "Tidepool"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidepool"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -447,13 +501,13 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -465,7 +519,13 @@
         },
         "it" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "Tidepool"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -483,7 +543,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -499,15 +559,21 @@
             "value" : "Tidepool"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidepool"
+          }
+        },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -519,7 +585,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -543,7 +609,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         }
@@ -604,6 +670,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autorizzazione al servizio Tidepool"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorisasjon av Tidepool-tjenesten"
           }
         },
         "nb-NO" : {
@@ -680,8 +752,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tidepool Service Authorization"
+            "state" : "translated",
+            "value" : "Tidepool 服务授权"
           }
         }
       }
@@ -741,6 +813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il servizio Tidepool non è più autorizzato. Accedi alle impostazioni del servizio Tidepool e autenticati nuovamente."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidepool-tjenesten er ikke lenger autorisert. Gå til innstillingene for Tidepool-tjenesten og godkjenn på nytt."
           }
         },
         "nb-NO" : {
