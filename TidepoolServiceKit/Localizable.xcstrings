@@ -6,7 +6,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Configuration Error"
           }
         },
@@ -36,7 +36,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Configuration Error"
           }
         },
@@ -54,7 +54,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Configuration Error"
           }
         },
@@ -96,7 +96,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Configuration Error"
           }
         },
@@ -155,7 +155,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Missing DataSet Id"
           }
         },
@@ -173,13 +173,13 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Missing DataSet Id"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Missing DataSet Id"
           }
         },
@@ -191,13 +191,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Missing DataSet Id"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Missing DataSet Id"
           }
         },
@@ -239,8 +239,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Missing DataSet Id"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lipsește Id DataSet"
           }
         },
         "ru" : {
@@ -251,7 +257,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Missing DataSet Id"
           }
         },
@@ -263,7 +269,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Missing DataSet Id"
           }
         },
@@ -281,7 +287,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Missing DataSet Id"
           }
         }
@@ -340,7 +346,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "OK"
           }
         },
@@ -447,7 +453,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -477,7 +483,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -495,7 +501,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -537,7 +543,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool"
           }
         },
@@ -596,7 +602,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool Service Authorization"
           }
         },
@@ -614,13 +620,13 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool Service Authorization"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool Service Authorization"
           }
         },
@@ -632,13 +638,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool Service Authorization"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool Service Authorization"
           }
         },
@@ -680,8 +686,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool Service Authorization"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorizarea serviciului Tidepool"
           }
         },
         "ru" : {
@@ -692,7 +704,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool Service Authorization"
           }
         },
@@ -704,7 +716,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool Service Authorization"
           }
         },
@@ -733,7 +745,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
           }
         },
@@ -745,19 +757,19 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
           }
         },
@@ -769,13 +781,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
           }
         },
@@ -817,8 +829,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serviciul Tidepool nu mai este autorizat. Vă rugăm să navigați la setările serviciului Tidepool și să vă autentificați din nou."
           }
         },
         "ru" : {
@@ -829,7 +847,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
           }
         },
@@ -841,7 +859,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
           }
         },
@@ -859,7 +877,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
           }
         }
