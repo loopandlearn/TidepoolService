@@ -103,7 +103,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ești sigur că vrei să ștergi acest serviciu?"
+            "value" : "Sunteți sigur/ă că vreți să ștergeți acest serviciu?"
           }
         },
         "ru" : {
@@ -776,7 +776,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Login"
+            "value" : "Connexion"
           }
         },
         "he" : {
