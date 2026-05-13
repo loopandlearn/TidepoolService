@@ -103,7 +103,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eroare de configurare"
+            "value" : "Eroare configurare"
           }
         },
         "ru" : {
