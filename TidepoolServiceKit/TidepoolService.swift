@@ -212,9 +212,16 @@ public final class TidepoolService: Service, TAPIObserver, ObservableObject {
         }
 
         dataSetIdCacheStatus = .inProgress(task)
-        let dataSetId = try await task.value
-        dataSetIdCacheStatus = .fetched(dataSetId)
-        return dataSetId
+        do {
+            let dataSetId = try await task.value
+            dataSetIdCacheStatus = .fetched(dataSetId)
+            return dataSetId
+        } catch {
+            // Clear the cache so a transient failure (e.g. no network on the first upload)
+            // doesn't leave a failed task cached and poison every later upload until re-login.
+            clearCachedDataSetId()
+            throw error
+        }
     }
 
     private func fetchDataSetId() async throws -> String {
