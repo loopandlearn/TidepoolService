@@ -979,7 +979,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Revocați jeton"
+            "value" : "Revocați cheie"
           }
         },
         "ru" : {
