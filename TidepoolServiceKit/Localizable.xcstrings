@@ -28,6 +28,12 @@
             "value" : "Konfigurationsfehler"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuration Error"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169,6 +175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DataSet Id fehlt"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Missing DataSet Id"
           }
         },
         "es" : {
@@ -315,6 +327,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -475,6 +493,12 @@
             "value" : "Tidepool"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidepool"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -618,6 +642,12 @@
             "value" : "Tidepool Service-Autorisierung"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidepool Service Authorization"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -759,6 +789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Der Tidepool-Dienst ist nicht mehr autorisiert. Bitte rufe die Einstellungen des Tidepool-Dienstes auf und authentifiziere Dich erneut."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidepool service is no longer authorized. Please navigate to Tidepool Service settings and reauthenticate."
           }
         },
         "es" : {
