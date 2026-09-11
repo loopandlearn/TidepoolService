@@ -28,6 +28,12 @@
             "value" : "Bist Du sicher, dass Du diesen Dienst löschen möchtest?"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to delete this service?"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169,6 +175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schließen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
           }
         },
         "es" : {
@@ -320,6 +332,12 @@
             "value" : "Dienst löschen"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Service"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -469,6 +487,12 @@
             "value" : "Umgebung"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Environment"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -610,6 +634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Angemeldet als"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logged in as"
           }
         },
         "es" : {
@@ -761,6 +791,12 @@
             "value" : "Anmelden"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Login"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -904,6 +940,12 @@
             "value" : "Token zurückziehen"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revoke token"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1045,6 +1087,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Du bist nicht angemeldet."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are not logged in."
           }
         },
         "es" : {
